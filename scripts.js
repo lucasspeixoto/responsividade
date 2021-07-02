@@ -77,3 +77,5 @@ document.querySelector(".close-modal").addEventListener("click", () => {
   modal.querySelector("iframe").src = ``;
   document.querySelector("body").style.overflow = "initial";
 });
+
+/* Menu responsivo */
